@@ -1,0 +1,6 @@
+sequence of action
+rule of inference
+set of clause
+end of lesson
+datum
+strip

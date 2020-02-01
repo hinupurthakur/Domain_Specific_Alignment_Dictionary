@@ -1,0 +1,2692 @@
+#	type	key	freq
+1	T	n: node	416
+2	T	n: state	405
+3	T	n: search	383
+4	T	n: problem	303
+5	T	n: variable	277
+6	T	n: goal	259
+7	T	n: algorithm	249
+8	T	n: rule	212
+9	T	n: system	209
+10	T	n: agent	201
+11	T	n: logic	157
+12	T	n: function	156
+13	T	n: solution	148
+14	T	n: clause	146
+15	T	n: space	146
+16	T	n: knowledge	146
+17	T	n: action	142
+18	T	n: tree	129
+19	T	n: constraint	128
+20	T	n: path	123
+21	T	n: number	116
+22	T	n: step	111
+23	T	n: inference	110
+24	T	n: sentence	109
+25	T	n: operator	104
+26	T	a: true	99
+27	T	n: student	96
+28	T	a: initial	96
+29	T	n: plan	94
+30	T	n: formula	93
+31	T	n: order	93
+32	T	n: language	92
+33	T	n: world	85
+34	T	n: network	84
+35	T	n: literal	81
+36	T	n: case	80
+37	T	n: domain	78
+38	T	a: current	78
+39	T	n: resolution	74
+40	T	n: time	72
+41	T	n: fringe	72
+42	T	an: initial state	71
+43	T	n: term	71
+44	T	n: input	71
+45	T	a: heuristic	70
+46	T	a: complete	68
+47	T	n: cost	68
+48	T	n: graph	65
+49	T	n: hypothesis	64
+50	T	a: consistent	63
+51	T	n: form	61
+52	T	n: probability	61
+53	T	n: class	61
+54	T	n: planning	60
+55	T	n: proof	58
+56	T	n: information	58
+57	T	a: semantic	56
+58	T	n: depth	55
+59	T	n: environment	55
+60	T	n: expert	55
+61	T	n: fact	54
+62	T	n: model	54
+63	T	n: child	54
+64	T	n: strategy	54
+65	T	n: successor	53
+66	T	n: structure	53
+67	T	n: method	53
+68	T	nn: goal state	53
+68	V[s]	ann: optimal goal state	2
+68	V[s]	nnn: goal state description	3
+69	T	a: positive	53
+70	T	a: simple	52
+71	T	a: general	51
+72	T	r: forward	50
+73	T	n: statement	49
+74	T	n: table	49
+75	T	n: procedure	49
+76	T	n: object	49
+77	T	n: attribute	48
+78	T	nn: search tree	48
+78	V[s]	ann: complete search tree	4
+78	V[s]	nnpn: search tree of depth	2
+79	T	n: datum	47
+80	T	n: word	47
+81	T	n: output	46
+82	T	n: property	46
+83	T	n: instance	46
+84	T	n: perceptron	46
+85	T	n: frame	46
+86	T	n: situation	45
+87	T	n: truth	45
+88	T	n: lesson	45
+89	T	n: gamma	44
+90	T	a: false	43
+91	T	n: start	43
+92	T	a: human	43
+93	T	n: distribution	42
+94	T	nn: state space	42
+94	V[s]	nnn: state space search	12
+94	V[s]	nnn: state space graph	4
+94	V[s]	ann: implicit state space	3
+94	V[s]	nnn: state space formulation	2
+94	V[s]	nnn: state space representation	3
+95	T	n: element	42
+96	T	n: theorem	41
+97	T	n: symbol	41
+98	T	n: machine	41
+99	T	n: queen	40
+100	T	n: consistency	40
+101	T	n: concept	40
+102	T	n: predicate	40
+103	T	n: module	40
+104	T	n: theory	40
+105	T	nn: search algorithm	39
+105	V[s]	nnn: graph search algorithm	4
+105	V[s]	ann: basic search algorithm	4
+106	T	a: small	39
+107	T	n: process	38
+108	T	an: natural language	38
+108	V[s]	aan: module13 natural language	2
+109	T	n: game	38
+110	T	nn: expert system	38
+110	V[s]	ann: medical expert system	7
+110	V[s]	ann: fuzzy expert system	2
+110	V[s]	aann: fictitious medical expert system	2
+110	V[s]	nnn: expert system shell	3
+111	T	a: open	37
+112	T	n: task	37
+113	T	n: figure	36
+114	T	n: definition	36
+115	T	n: player	36
+116	T	n: return	35
+117	T	n: assignment	35
+118	T	n: note	35
+119	T	n: learning	35
+120	T	a: optimal	34
+121	T	n: axiom	34
+122	T	n: computer	34
+123	T	n: prolog	34
+124	T	n: application	33
+125	T	a: large	33
+126	T	n: decision	32
+127	T	n: program	32
+128	T	n: consequence	32
+129	T	n: parent	32
+130	T	a: independent	32
+131	T	nn: knowledge representation	32
+131	V[s]	nnn: knowledge representation language	4
+132	T	nn: search problem	32
+132	V[s]	nnnn: state space search problem	3
+132	V[s]	ann: two-agent search problem	2
+133	T	n: move	32
+134	T	n: intelligence	32
+135	T	n: list	32
+136	T	n: technique	31
+137	T	an: current state	31
+138	T	nn: membership function	31
+138	V[s]	nnn: output membership function	2
+139	T	n: result	31
+140	T	n: subset	31
+141	T	n: meaning	30
+142	T	n: test	30
+143	T	n: processing	30
+144	T	n: point	29
+145	T	n: planner	29
+146	T	n: training	29
+147	T	n: pair	28
+148	T	n: memory	28
+149	T	n: question	28
+150	T	a: real	28
+151	T	a: high	28
+152	T	n: weight	28
+153	T	n: operation	28
+154	T	n: effect	28
+155	T	n: slot	28
+156	T	n: inferencing	27
+157	T	a: equivalent	27
+158	T	n: precondition	27
+159	T	n: percept	27
+160	T	n: complexity	27
+161	T	nn: inference rule	27
+161	V[s]	nnn: resolution inference rule	4
+162	T	n: link	27
+163	T	n: john	26
+164	T	a: negative	26
+165	T	a: joint	26
+166	T	n: substitution	26
+167	T	n: condition	25
+168	T	n: approach	25
+169	T	n: thing	25
+170	T	n: position	25
+171	T	n: bayes	25
+172	T	n: board	25
+173	T	n: user	25
+174	T	a: sound	24
+175	T	n: puzzle	24
+176	T	n: conclusion	23
+177	T	n: mechanism	23
+178	T	a: important	23
+179	T	a: inconsistent	23
+180	T	a: individual	23
+181	T	n: relation	23
+182	T	n: query	23
+183	T	n: interpretation	23
+184	T	a: maximum	22
+185	T	nn: horn clause	22
+185	V[s]	nnn: horn clause logic	3
+186	T	n: expression	22
+187	T	n: union	22
+188	T	n: failure	22
+189	T	an: propositional logic	22
+190	T	n: column	22
+191	T	n: default	22
+192	T	nn: goal node	22
+192	V[s]	ann: shallow goal node	2
+193	T	an: neural network	22
+193	V[s]	aan: artificial neural network	4
+194	T	a: intelligent	21
+195	T	nn: constraint satisfaction	21
+195	V[s]	nnn: constraint satisfaction problem	16
+196	T	a: common	21
+197	T	a: efficient	21
+198	T	n: loop	21
+199	T	n: performance	21
+200	T	n: idea	21
+201	T	a: finite	21
+202	T	a: satisfiable	20
+203	T	r: backward	20
+204	T	n: unit	20
+205	T	n: people	20
+206	T	npn: sequence of action	20
+206	V[s]	nn: action sequence	3
+206	V[s]	anpn: non-empty sequence of action	2
+206	V[s]	anpn: empty sequence of action	2
+207	T	n: formulation	20
+208	T	n: distance	20
+209	T	nn: order logic	20
+209	V[s]	nnn: order predicate logic	4
+209	V[s]	nnn: order logic -	2
+210	T	an: random variable	20
+210	V[s]	aan: boolean random variable	5
+211	T	nn: search space	20
+212	T	n: error	19
+213	T	n: answer	19
+214	T	a: hard	19
+215	T	n: partial-order	19
+216	T	a: difficult	19
+217	T	n: range	19
+218	T	n: location	19
+219	T	an: positive literal	19
+220	T	n: checking	19
+221	T	n: discourse	19
+222	T	nn: knowledge base	19
+222	V[s]	nnn: knowledge base gamma	2
+222	V[s]	nnn: knowledge base editor	2
+223	T	an: non-logical axiom	18
+224	T	n: constant	18
+225	T	a: syntactic	18
+226	T	n: ability	18
+227	T	n: advantage	18
+228	T	a: linear	18
+229	T	n: independence	18
+230	T	n: evaluation	18
+231	T	n: choice	18
+232	T	n: factor	18
+233	T	nn: decision tree	18
+233	V[s]	nnn: decision tree -	2
+233	V[s]	nnn: decision tree construction	2
+234	T	nn: search strategy	18
+234	V[s]	ann: suitable search strategy	2
+235	T	nn: satisfaction problem	18
+235	V[s]	nnn: constraint satisfaction problem	16
+236	T	n: gallon	17
+237	T	n: support	17
+238	T	n: architecture	17
+239	T	a: early	17
+240	T	n: objective	17
+241	T	n: entailment	17
+242	T	n: ambiguity	17
+243	T	a: crisp	17
+244	T	n: score	17
+245	T	a: complex	17
+246	T	n: parameter	17
+247	T	n: assertion	17
+248	T	nan: breadth first search	17
+249	T	n: shakey	17
+250	T	n: reason	17
+251	T	nn: constraint graph	16
+252	T	n: principle	16
+253	T	n: layer	16
+254	T	r: initially	16
+255	T	npn: rule of inference	16
+255	V[s]+	nn: inference rule	27
+256	T	n: region	16
+257	T	n: syntax	16
+258	T	n: herbrand	16
+259	T	n: branch	16
+260	T	an: logical consequence	16
+260	V[s]	anpn: logical consequence of gamma	9
+261	T	nnn: constraint satisfaction problem	16
+262	T	n: behaviour	16
+263	T	n: conjunction	16
+264	T	n: iteration	16
+265	T	n: control	15
+266	T	n: leaf	15
+267	T	an: fuzzy set	15
+268	T	n: instantiation	15
+269	T	n: estimate	15
+270	T	n: relationship	15
+271	T	an: bayesian network	15
+272	T	n: work	15
+273	T	n: refutation	15
+274	T	nn: successor state	15
+275	T	n: assumption	15
+276	T	a: special	15
+277	T	n: level	15
+278	T	n: notion	14
+279	T	a: observable	14
+280	T	n: part	14
+281	T	n: conflict	14
+282	T	a: iterative	14
+283	T	a: strong	14
+284	T	n: premise	14
+285	T	n: category	14
+286	T	nn: planning algorithm	14
+286	V[s]	annn: partial order planning algorithm	2
+287	T	a: exponential	14
+288	T	an: arc consistency	14
+289	T	n: version	14
+290	T	n: minimax	14
+291	T	n: alpha	14
+292	T	n: experience	14
+293	T	n: minimum	14
+294	T	n: alternative	14
+295	T	n: uncertainty	14
+296	T	n: cancer	14
+297	T	n: place	14
+298	T	r: similarly	14
+299	T	n: sensor	14
+300	T	a: marginal	13
+301	T	an: conditional probability	13
+302	T	npn: set of clause	13
+303	T	an: conditional independence	13
+304	T	nan: depth first search	13
+305	T	a: suitable	13
+306	T	n: woman	13
+307	T	a: similar	13
+308	T	n: block	13
+309	T	r: back	13
+310	T	n: completeness	13
+311	T	n: root	13
+312	T	n: formalism	13
+313	T	a: easy	13
+314	T	n: generation	13
+315	T	n: chess	13
+316	T	n: degree	13
+317	T	n: alpha-beta	12
+318	T	an: instructional objective	12
+319	T	r: simply	12
+320	T	a: valid	12
+321	T	n: size	12
+322	T	nn: start node	12
+323	T	n: basis	12
+324	T	an: semantic net	12
+325	T	n: strip	12
+326	T	r: earlier	12
+327	T	n: label	12
+328	T	an: joint distribution	12
+329	T	an: heuristic function	12
+330	T	n: event	12
+331	T	a: clear	12
+332	T	a: familiar	12
+333	T	n: hand	12
+334	T	n: track	12
+335	T	n: expansion	12
+336	T	n: duck	12
+337	T	n: difference	12
+338	T	n: robot	12
+339	T	n: component	12
+340	T	npn: end of lesson	12
+341	T	nn: state description	12
+341	V[s]	ann: initial state description	2
+342	T	nnn: state space search	12
+343	T	an: rational agent	12
+344	T	a: equal	12
+345	T	n: person	11
+346	T	r: generally	11
+347	T	n: colour	11
+348	T	n: endif	11
+349	T	a: total	11
+350	T	a: unique	11
+351	T	r: directly	11
+352	T	npn: consequence of gamma	11
+352	V[s]	anpn: logical consequence of gamma	9
+353	T	nn: bayes net	11
+353	V[d]	an: bayesian net	2
+354	T	a: form1	11
+355	T	a: form2	11
+356	T	a: dynamic	11
+357	T	n: nature	11
+358	T	an: intelligent agent	11
+359	T	a: future	11
+360	T	n: utility	11
+361	T	n: resolvent	11
+362	T	an: artificial intelligence	11
+363	T	n: color	11
+364	T	n: turing	11
+365	T	n: commitment	11
+366	T	n: life	11
+367	T	nn: truth table	11
+367	V[s]	nnn: truth table method	3
+368	T	an: fuzzy logic	11
+369	T	a: capable	11
+370	T	a: definite	10
+371	T	nn: probability distribution	10
+371	V[s]	ann: joint probability distribution	2
+372	T	r: partially	10
+373	T	n: hill	10
+374	T	an: probabilistic reasoning	10
+375	T	a: previous	10
+376	T	n: computation	10
+377	T	n: city	10
+378	T	a: multiple	10
+379	T	an: causal link	10
+380	T	n: tile	10
+381	T	npn: gallon of water	10
+382	T	a: tall	10
+383	T	n: mary	10
+384	T	n: disease	10
+385	T	n: programming	10
+386	T	n: turn	10
+387	T	an: bidirectional search	10
+387	V[s]	nan: search bidirectional search	2
+388	T	a: prior	10
+389	T	n: speech	10
+390	T	an: binary constraint	10
+391	T	n: view	10
+392	T	nn: herbrand universe	10
+393	T	n: sense	10
+394	T	r: newly	10
+395	T	n: letter	10
+396	T	n: local-minimum	10
+397	T	nn: path cost	10
+398	T	an: semantic network	10
+399	T	an: crisp input	9
+400	T	n: generalization	9
+401	T	n: progression	9
+402	T	n: propagation	9
+403	T	a: ambiguous	9
+404	T	anpn: logical consequence of gamma	9
+405	T	n: negation	9
+406	T	a: deterministic	9
+407	T	r: ahead	9
+408	T	nn: machine translation	9
+409	T	an: specific hypothesis	9
+410	T	a: short	9
+411	T	an: forward checking	9
+412	T	nn: proof procedure	9
+412	V[s]	nnn: resolution proof procedure	2
+413	T	a: admissible	9
+414	T	n: justification	9
+415	T	n: neuron	9
+416	T	n: pattern	9
+417	T	n: member	9
+418	T	r: randomly	9
+419	T	n: animal	9
+420	T	n: crossword	9
+421	T	n: hardware	9
+422	T	n: addition	9
+423	T	n: endfor	9
+424	T	a: correct	9
+425	T	n: evidence	9
+426	T	n: sample	9
+427	T	nn: goal test	9
+428	T	n: threshold	9
+429	T	nn: algorithm ac-4	9
+430	T	r: immediately	9
+431	T	n: hill-climbing	9
+432	T	n: room	9
+433	T	n: configuration	9
+434	T	an: negative literal	9
+435	T	n: image	9
+436	T	nn: successor function	9
+437	T	n: temperature	9
+438	T	n: belief	9
+439	T	n: unification	9
+440	T	a: infinite	9
+441	T	n: regression	9
+442	T	a: lexical	9
+443	T	a: inductive	9
+444	T	a: relevant	9
+445	T	n: noun	9
+446	T	a: distinct	9
+447	T	n: distinction	9
+448	T	npn: set of support	9
+449	T	a: interesting	9
+450	T	n: ancestor	9
+451	T	an: local search	9
+452	T	an: definite clause	9
+453	T	r: typically	9
+454	T	n: cycle	9
+455	T	n: jane	9
+456	T	nn: hypothesis space	9
+457	T	a: standard	8
+458	T	nn: block world	8
+459	T	n: shape	8
+460	T	n: knowledge-base	8
+460	V[mg]+	nn: knowledge base	19
+461	T	n: plan-space	8
+461	V[m]	npn: space of plan	2
+462	T	a: continuous	8
+463	T	a: adjacent	8
+464	T	n: manner	8
+465	T	n: introduction	8
+466	T	n: mapping	8
+467	T	n: shoe	8
+468	T	n: equivalence	8
+469	T	a: null	8
+470	T	npn: universe of discourse	8
+471	T	nn: predicate logic	8
+472	T	n: sally	8
+473	T	n: mushroom	8
+474	T	n: fuzzification	8
+475	T	n: certainty	8
+476	T	an: unary constraint	8
+477	T	n: amount	8
+478	T	an: partial solution	8
+478	V[s]	aan: current partial solution	5
+479	T	n: ac-3	8
+480	T	an: fuzzy input	8
+481	T	n: notation	8
+482	T	n: cannibal	8
+483	T	a: pure	8
+484	T	r: logically	8
+485	T	nn: start state	8
+486	T	n: hedge	8
+487	T	nn: information processing	8
+487	V[s]	nnn: information processing capability	2
+488	T	a: poisonous	8
+489	T	nn: probability theory	8
+490	T	nn: order plan	8
+490	V[s]	ann: partial order plan	5
+490	V[s]	aann: minimal partial order plan	4
+491	T	a: n-ary	8
+492	T	n: mathematics	8
+493	T	n: aspect	8
+494	T	n: text	8
+495	T	an: gradient descent	8
+496	T	nn: breast cancer	8
+497	T	n: back	8
+498	T	n: strength	8
+499	T	n: arrow	8
+500	T	n: capability	8
+501	T	r: conditionally	8
+502	T	a: uniform	8
+503	T	an: fuzzy system	8
+504	T	n: sort	8
+505	T	n: home	8
+506	T	nn: inference procedure	8
+507	T	n: inheritance	8
+508	T	n: intersection	8
+509	T	n: threat	8
+510	T	nn: selection rule	8
+511	T	a: humid	8
+512	T	n: data	8
+513	T	n: edge	8
+514	T	n: equality	8
+515	T	nn: game tree	8
+516	T	n: activity	8
+517	T	n: bird	7
+518	T	a: average	7
+519	T	an: greedy search	7
+520	T	a: closed	7
+521	T	npn: state of world	7
+521	V[s]	anpn: current state of world	2
+522	T	npn: successor of node	7
+523	T	n: bias	7
+524	T	an: legal assignment	7
+525	T	a: smart	7
+526	T	r: explicitly	7
+527	T	nn: inference mechanism	7
+528	T	n: success	7
+529	T	nn: crossword puzzle	7
+530	T	n: missionary	7
+531	T	n: interest	7
+532	T	a: expensive	7
+533	T	a: close	7
+534	T	an: informed search	7
+534	V[gp]	an: uninformed search	6
+535	T	a: long	7
+536	T	n: beta	7
+537	T	nn: situation calculus	7
+538	T	an: binary resolution	7
+539	T	nn: end loop	7
+539	V[s]	nnn: fringe end loop	5
+540	T	a: 8-puzzle	7
+541	T	n: resource	7
+542	T	nn: search method	7
+542	V[s]	ann: uninformed search method	2
+542	V[s]	ann: local search method	2
+543	T	an: delta rule	7
+544	T	n: area	7
+545	T	a: robotic	7
+546	T	n: practice	7
+547	T	n: equation	7
+548	T	a: popular	7
+549	T	a: great	7
+550	T	n: teacher	7
+551	T	n: neighbor	7
+552	T	n: store	7
+553	T	ncnn: time and space complexity	7
+554	T	n: infinity	7
+555	T	r: easily	7
+556	T	n: rover	7
+557	T	an: null clause	7
+558	T	an: marginal distribution	7
+559	T	an: bad case	7
+560	T	a: feasible	7
+561	T	n: purpose	7
+562	T	nn: version space	7
+563	T	n: minima	7
+564	T	n: collection	7
+565	T	n: database	7
+566	T	nn: default logic	7
+567	T	n: issue	7
+568	T	n: call	7
+569	T	annn: empty return failure node	7
+570	T	nn: performance measure	7
+571	T	ann: medical expert system	7
+572	T	n: interaction	7
+573	T	a: static	7
+574	T	a: unsatisfiable	7
+575	T	npn: child of node	7
+576	T	n: vehicle	7
+577	T	a: autonomous	7
+578	T	n: rationality	7
+579	T	r: linearly	7
+580	T	r: completely	7
+581	T	n: shell	7
+582	T	a: explicit	7
+583	T	n: bunch	7
+584	T	n: mammography	7
+585	T	an: internal node	7
+586	T	n: front	7
+587	T	a: successful	7
+588	T	an: 2-gallon jug	6
+588	V[s]	aan: empty 2-gallon jug	2
+589	T	n: count	6
+590	T	n: consequent	6
+591	T	a: abnormal	6
+592	T	an: partial plan	6
+593	T	n: height	6
+594	T	n: left	6
+595	T	a: diagonal	6
+596	T	npn: front of fringe	6
+597	T	n: modification	6
+598	T	n: side	6
+599	T	n: influence	6
+600	T	an: heuristic search	6
+601	T	n: study	6
+602	T	n: power	6
+603	T	r: precisely	6
+604	T	nn: world knowledge	6
+605	T	r: strongly	6
+606	T	n: binding	6
+607	T	n: limit	6
+608	T	n: terminology	6
+609	T	n: argument	6
+610	T	nn: function symbol	6
+611	T	an: multi-layered perceptrons	6
+612	T	n: part-of-speech	6
+613	T	a: unsupervised	6
+614	T	ann: uniform cost search	6
+615	T	n: speed	6
+616	T	n: entropy	6
+617	T	an: pure prolog	6
+618	T	an: optimal solution	6
+619	T	n: stage	6
+620	T	r: possibly	6
+621	T	n: rate	6
+622	T	a: unknown	6
+623	T	n: switch	6
+624	T	n: bound	6
+625	T	ann: natural language processing	6
+626	T	npn: back of fringe	6
+627	T	n: concern	6
+628	T	nn: input resolution	6
+629	T	n: year	6
+630	T	n: circumscription	6
+631	T	nn: solution path	6
+632	T	nn: percept sequence	6
+633	T	n: loss	6
+634	T	n: direction	6
+635	T	a: effective	6
+636	T	nn: resolution proof	6
+637	T	an: basic idea	6
+638	T	n: combination	6
+639	T	nn: planning agent	6
+639	V[s]	ann: simple planning agent	4
+640	T	npn: set of formula	6
+641	T	a: square	6
+642	T	n: role	6
+643	T	n: boundary	6
+644	T	n: overfitting	6
+645	T	nn: minimax algorithm	6
+646	T	n: csps	6
+647	T	nn: problem formulation	6
+648	T	r: highly	6
+649	T	a: sufficient	6
+650	T	n: century	6
+651	T	n: book	6
+652	T	an: uninformed search	6
+653	T	an: local minima	6
+654	T	a: stochastic	6
+655	T	n: topology	6
+656	T	an: fuzzy inferencing	6
+657	T	an: temporal constraint	6
+658	T	a: precise	6
+659	T	nn: plan step	6
+660	T	nva: fringe be empty	6
+661	T	n: calculation	6
+662	T	n: approximation	6
+663	T	a: hidden	6
+664	T	nn: leaf node	6
+665	T	a: 15-puzzle	6
+666	T	n: improvement	6
+667	T	n: quaker	6
+668	T	n: derivation	6
+669	T	n: article	6
+670	T	r: simultaneously	6
+671	T	an: clausal form	6
+672	T	r: existentially	6
+673	T	nn: proof tree	6
+674	T	n: verb	6
+675	T	a: practical	6
+676	T	an: positive mammography	6
+677	T	r: slightly	6
+678	T	n: implication	6
+679	T	n: contour	6
+680	T	n: respect	6
+681	T	n: today	6
+682	T	n: dependency	6
+683	T	n: descendant	6
+684	T	a: separable	6
+685	T	n: frontier	6
+686	T	a: beta	6
+687	T	a: obvious	6
+688	T	an: atomic formula	6
+689	T	r: open	6
+690	T	nn: root node	5
+691	T	npn: set of object	5
+692	T	n: soundness	5
+693	T	nn: datum structure	5
+694	T	nn: rule evaluation	5
+695	T	n: subgoals	5
+696	T	an: future variable	5
+697	T	n: actuator	5
+698	T	n: phrase	5
+699	T	n: controller	5
+700	T	n: chain	5
+701	T	npnn: set of support strategy	5
+702	T	nn: training datum	5
+703	T	nn: subsumption architecture	5
+704	T	r: briefly	5
+705	T	n: matrix	5
+706	T	n: d-separation	5
+707	T	r: eventually	5
+708	T	an: formal logic	5
+709	T	a: blank	5
+710	T	n: likelihood	5
+711	T	nn: target concept	5
+712	T	a: select	5
+713	T	r: implicitly	5
+714	T	nn: finish operator	5
+715	T	n: atom	5
+716	T	nn: breadth-first search	5
+717	T	a: interested	5
+718	T	n: depth-first	5
+719	T	n: landscape	5
+720	T	nn: ai system	5
+721	T	n: cardiff-rfc	5
+722	T	n: vi,vk	5
+723	T	n: interrogator	5
+724	T	nnn: candidate elimination algorithm	5
+725	T	a: straight	5
+726	T	n: disadvantage	5
+727	T	n: repeat	5
+728	T	a: slow	5
+729	T	n: picture	5
+730	T	r: computationally	5
+731	T	nn: situation-space planning	5
+732	T	n: update	5
+733	T	n: accuracy	5
+734	T	n: hierarchy	5
+735	T	a: favorable	5
+736	T	n: poly-trees	5
+737	T	nn: default reasoning	5
+738	T	n: framework	5
+739	T	n: l-structure	5
+740	T	n: preference	5
+741	T	n: bottom	5
+742	T	n: river	5
+743	T	a: powerful	5
+744	T	nn: output node	5
+745	T	n: variation	5
+746	T	n: primitive	5
+747	T	n: scope	5
+748	T	n: total-order	5
+749	T	a: incidental	5
+750	T	nnn: fringe end loop	5
+751	T	n: sld-resolution	5
+752	T	ann: conditional independence relationship	5
+753	T	r: basically	5
+754	T	n: vertices	5
+755	T	n: modus	5
+756	T	nn: turing test	5
+757	T	n: bank	5
+758	T	nn: evaluation function	5
+759	T	n: defuzzification	5
+760	T	nn: search -	5
+761	T	n: extension	5
+762	T	ann: real life problem	5
+763	T	nn: horn theory	5
+764	T	npn: occurrence of variable	5
+765	T	n: deduction	5
+766	T	n: routine	5
+767	T	an: finite number	5
+768	T	nn: consistency technique	5
+769	T	n: sprinkler	5
+770	T	nn: access path	5
+771	T	n: entity	5
+772	T	ann: partial order plan	5
+773	T	nn: time complexity	5
+774	T	a: weak	5
+775	T	nn: solution plan	5
+776	T	n: interpreter	5
+777	T	an: variable elimination	5
+778	T	n: deal	5
+779	T	n: effector	5
+780	T	an: specific knowledge	5
+780	V[s]	nan: domain specific knowledge	2
+781	T	n: boat	5
+782	T	n: back-propagation	5
+783	T	n: outcome	5
+784	T	n: goodness	5
+785	T	npn: set of sentence	5
+786	T	an: fuzzy output	5
+787	T	n: fire	5
+788	T	a: expanded	5
+789	T	a: cheap	5
+790	T	n: sock	5
+791	T	n: cpts	5
+792	T	nn: theorem prover	5
+793	T	n: waiter	5
+794	T	a: successive	5
+795	T	n: variant	5
+796	T	n: arc-consistency	5
+796	V[mg]	an: arc consistency	14
+797	T	an: strict local-minimum	5
+798	T	nnn: truth maintenance system	5
+799	T	nva: sentence be true	5
+800	T	npnn: set of formula gamma	5
+801	T	n: validation	5
+802	T	r: efficiently	5
+803	T	n: guarantee	5
+804	T	aan: current partial solution	5
+805	T	nn: start operator	5
+806	T	n: learner	5
+807	T	n: rugby-team	5
+808	T	aan: boolean random variable	5
+809	T	n: contradiction	5
+810	T	an: complete plan	5
+810	V[p]	an: incomplete plan	2
+811	T	npn: effect of operator	5
+812	T	an: left world	5
+813	T	a: arc-consistent	5
+814	T	n: valuation	5
+815	T	a: applicable	5
+816	T	an: current node	5
+817	T	n: implementation	5
+818	T	n: open	5
+819	T	an: low cost	5
+820	T	n: min-conflicts	4
+821	T	r: ultimately	4
+822	T	n: assign	4
+823	T	n: weather	4
+824	T	npan: set of non-logical axiom	4
+825	T	an: general unifier	4
+826	T	n: sub-goals	4
+827	T	r: iteratively	4
+828	T	nn: machine learning	4
+829	T	n: tic-tac-toe	4
+829	V[m]	ann: tic-tac - toe	1
+830	T	n: burglary	4
+831	T	nva: formula be equivalent	4
+832	T	nva: node be independent	4
+833	T	an: binary csp	4
+834	T	nn: memory element	4
+835	T	a: central	4
+836	T	nn: data structure	4
+837	T	nn: problem description	4
+838	T	r: rationally	4
+839	T	a: optimum	4
+840	T	n: force	4
+841	T	n: sign	4
+842	T	n: brain	4
+843	T	n: taxonomy	4
+844	T	an: straight line	4
+845	T	n: source	4
+846	T	nn: search technique	4
+847	T	an: terminal node	4
+848	T	a: 0-ary	4
+849	T	n: show	4
+850	T	npnn: reasoning with uncertainty -	4
+851	T	a: cognitive	4
+852	T	aan: artificial neural network	4
+853	T	n: revision	4
+854	T	n: organization	4
+855	T	an: fuzzy statement	4
+856	T	npn: set of state	4
+857	T	r: quickly	4
+858	T	n: smoke	4
+859	T	nn: product rule	4
+860	T	nva: grass be wet	4
+861	T	nva: arc be bidirectional	4
+862	T	an: current variable	4
+863	T	npan: principle of least commitment	4
+864	T	r: longer	4
+865	T	ann: natural language statement	4
+866	T	r: alternatively	4
+867	T	n: vi,vj	4
+868	T	a: rich	4
+869	T	nn: update rule	4
+869	V[s]	nnn: weight update rule	2
+870	T	a: np-complete	4
+871	T	nn: frame system	4
+872	T	n: context	4
+873	T	npn: set of operator	4
+874	T	r: if-then	4
+875	T	ann: basic search algorithm	4
+876	T	r: successfully	4
+877	T	r: fully	4
+878	T	nnan: uncertainty - probabilistic reasoning	4
+879	T	n: chance	4
+880	T	an: logical inference	4
+881	T	n: attempt	4
+882	T	an: linear resolution	4
+883	T	n: brook	4
+884	T	n: resolve	4
+885	T	r: previously	4
+886	T	n: house	4
+887	T	ann: complete search tree	4
+888	T	a: numeric	4
+889	T	nn: splitting function	4
+890	T	n: conceptualization	4
+891	T	n: rbfs	4
+892	T	n: detail	4
+893	T	a: sequential	4
+894	T	an: non-monotonic logic	4
+895	T	n: satisfy	4
+896	T	n: gsat	4
+897	T	an: single agent	4
+898	T	npn: product of domain	4
+898	V[s]	anpn: cartesian product of domain	2
+899	T	n: disk	4
+900	T	an: rule-based system	4
+901	T	an: ac-1 procedure	4
+901	V[s]	nan: algorithm ac-1 procedure	3
+902	T	npn: instantiation of variable	4
+903	T	nn: partial-order plan	4
+903	V[img]	ann: partial order plan	5
+904	T	a: classical	4
+905	T	a: sigmoid	4
+906	T	an: individual constant	4
+907	T	a: helpful	4
+908	T	npn: order of step	4
+909	T	nn: queen problem	4
+909	V[s]	nnn: queen problem formulation	3
+910	T	an: random valuation	4
+910	V[s]	anpn: random valuation of variable	2
+911	T	n: section	4
+912	T	an: dynamic programming	4
+913	T	an: unsupervised learning	4
+914	T	npn: cost of path	4
+914	V[s]	nn: path cost	10
+915	T	an: local maxima	4
+916	T	n: story	4
+917	T	a: derivable	4
+918	T	a: relative	4
+919	T	nn: theorem proving	4
+920	T	n: explanation	4
+921	T	n: forall	4
+922	T	r: long	4
+923	T	nn: ground instance	4
+924	T	a: related	4
+925	T	n: wheel	4
+926	T	n: transformation	4
+927	T	r: syntactically	4
+928	T	a: weighted	4
+929	T	r: correctly	4
+930	T	n: synapse	4
+931	T	a: uncertain	4
+932	T	nn: optimization problem	4
+933	T	an: optimal path	4
+934	T	n: team	4
+935	T	n: diagram	4
+936	T	a: multi-agent	4
+937	T	n: momentum	4
+938	T	n: republican	4
+939	T	r: optimally	4
+940	T	nn: path consistency	4
+941	T	n: computing	4
+942	T	n: morpheme	4
+943	T	n: convention	4
+944	T	n: physician	4
+945	T	n: compute	4
+946	T	nn: node expansion	4
+947	T	n: series	4
+948	T	nn: kb entail	4
+949	T	npn: formula of form	4
+950	T	nnn: resolution inference rule	4
+951	T	an: non-monotonic reasoning	4
+952	T	a: multilayer	4
+953	T	a: decidable	4
+954	T	n: characteristic	4
+955	T	nn: representation formalism	4
+955	V[s]	nnn: representation formalism lesson	2
+956	T	nn: problem definition	4
+957	T	nn: system student	4
+958	T	n: pointer	4
+959	T	a: compatible	4
+960	T	ann: conditional probability table	4
+961	T	n: vk,vm	4
+962	T	an: blind search	4
+963	T	nnn: order predicate logic	4
+964	T	nva: system be capable	4
+965	T	n: internet	4
+966	T	n: satisfiability	4
+967	T	r: nonetheless	4
+968	T	nva: mushroom be poisonous	4
+969	T	an: autonomous agent	4
+970	T	ann: initial state loop	4
+971	T	n: effort	4
+972	T	nva: earth be flat	4
+973	T	npnn: branch of search tree	4
+974	T	r: formally	4
+975	T	an: boolean function	4
+976	T	an: morphological analysis	4
+977	T	n: percentage	4
+978	T	a: automatic	4
+979	T	n: opportunity	4
+980	T	nn: modification operation	4
+981	T	n: family	4
+982	T	n: interface	4
+983	T	an: special case	4
+984	T	an: probabilistic inference	4
+985	T	ann: simple planning agent	4
+986	T	an: logical axiom	4
+987	T	n: hyperarc	4
+988	T	n: identifier	4
+989	T	n: country	4
+990	T	a: incomplete	4
+991	T	n: tail	4
+992	T	n: pragmatics	4
+993	T	an: linguistic knowledge	4
+994	T	n: connective	4
+995	T	n: obstacle	4
+996	T	npn: sequence of operator	4
+997	T	a: desirable	4
+998	T	nn: inference engine	4
+999	T	a: k-consistent	4
+1000	T	nn: partial-order planner	4
+1001	T	nnn: graph search algorithm	4
+1002	T	nnn: state space graph	4
+1003	T	nn: modus ponens	4
+1004	T	n: jtms	4
+1005	T	a: generic	4
+1006	T	n: check	4
+1007	T	an: complete solution	4
+1008	T	n: nixon	4
+1009	T	n: inconsistency	4
+1010	T	nn: hardware store	4
+1011	T	r: recursively	4
+1012	T	n: transition	4
+1013	T	n: draw	4
+1014	T	a: satisfied	4
+1015	T	an: reflex agent	4
+1015	V[s]	aan: model-based reflex agent	2
+1016	T	nn: computer system	4
+1017	T	nnn: knowledge representation language	4
+1018	T	an: 5-gallon jug	4
+1019	T	aann: minimal partial order plan	4
+1020	T	nn: sample space	4
+1021	T	an: human language	4
+1022	T	n: kelly	4
+1023	T	n: axon	4
+1024	T	an: exponential time	4
+1025	T	npn: representation of state	4
+1026	T	an: syntactic analysis	4
+1027	T	nn: hypothesis event	4
+1028	T	an: n-queens problem	4
+1029	T	a: poor	4
+1030	T	n: prediction	4
+1031	T	an: alternative path	3
+1032	T	an: blank position	3
+1033	T	nnnn: state space search problem	3
+1034	T	an: non-leaf node	3
+1035	T	a: empty2	3
+1036	T	an: adjacent region	3
+1037	T	nan: algorithm ac-1 procedure	3
+1038	T	n: mind	3
+1039	T	ann: natural language understanding	3
+1040	T	n: re-revision	3
+1041	T	a: sister	3
+1042	T	n: measurement	3
+1043	T	nn: total-order planner	3
+1044	T	n: monotone	3
+1045	T	an: hard problem	3
+1046	T	an: good move	3
+1047	T	a: strategic	3
+1048	T	n: page	3
+1049	T	nn: perceptron rule	3
+1050	T	n: ratio	3
+1051	T	nn: john call	3
+1052	T	n: predecessor	3
+1053	T	n: spike	3
+1054	T	nn: queen puzzle	3
+1055	T	a: identical	3
+1056	T	n: middle	3
+1057	T	a: compact	3
+1058	T	n: red,small,elongated,humid,high,rough	3
+1059	T	nn: cost path	3
+1060	T	nn: computer vision	3
+1061	T	n: notice	3
+1062	T	n: terrain	3
+1063	T	an: iterative improvement	3
+1064	T	nnn: crossword puzzle problem	3
+1065	T	n: chemical	3
+1066	T	n: diagnosis	3
+1067	T	n: out-list	3
+1068	T	an: semantic analysis	3
+1069	T	a: reasonable	3
+1070	T	npn: space of conjunction	3
+1071	T	npn: type of problem	3
+1072	T	n: composition	3
+1073	T	a: uncertainty-fuzzy	3
+1074	T	npn: slot of frame	3
+1075	T	a: antecedent	3
+1076	T	n: premises	3
+1077	T	an: optimal move	3
+1078	T	n: sj,b	3
+1079	T	n: optimality	3
+1080	T	a: upper	3
+1081	T	ann: implicit state space	3
+1082	T	n: ltms	3
+1083	T	nn: input space	3
+1084	T	ran: partially observable environment	3
+1085	T	n: atms	3
+1086	T	an: key idea	3
+1087	T	n: progress	3
+1088	T	nn: first-order logic	3
+1089	T	n: spectrometer	3
+1090	T	nn: computer science	3
+1091	T	an: causal structure	3
+1092	T	npn: configuration of agent	3
+1093	T	n: sampling	3
+1094	T	a: german	3
+1095	T	nn: search process	3
+1096	T	n: fail	3
+1097	T	an: logical symbol	3
+1098	T	nn: computer program	3
+1099	T	nn: constraint propagation	3
+1100	T	nn: uniform-cost search	3
+1100	V[img]	ann: uniform cost search	6
+1101	T	n: face	3
+1102	T	nnn: expert system shell	3
+1103	T	a: nonlinear	3
+1104	T	n: singleton	3
+1105	T	n: margin	3
+1106	T	n: needle	3
+1107	T	n: hotel	3
+1108	T	a: conceptual	3
+1109	T	npan: set of old people	3
+1110	T	r: morphologically	3
+1111	T	an: human expert	3
+1112	T	npn: probability of burglary	3
+1113	T	n: penguin	3
+1114	T	nn: rule system	3
+1115	T	npn: system with intelligence	3
+1116	T	n: discussion	3
+1117	T	nn: node consistency	3
+1118	T	an: good solution	3
+1119	T	nn: situation-space progression	3
+1119	V[s]	nnn: situation-space progression planner	2
+1120	T	nn: strip operator	3
+1121	T	n: metaclass	3
+1122	T	n: option	3
+1123	T	n: schedule	3
+1124	T	nn: inferencing mechanism	3
+1125	T	an: fuzzy subset	3
+1126	T	nn: information gain	3
+1127	T	nn: planning lesson	3
+1128	T	an: crisp output	3
+1129	T	n: land	3
+1130	T	n: ac-1	3
+1131	T	nva: factorization be true	3
+1132	T	an: 0-ary function	3
+1133	T	nnn: conflict resolution strategy	3
+1134	T	an: simple form	3
+1135	T	nva: error be small	3
+1136	T	nn: unit clause	3
+1137	T	n: next-open	3
+1138	T	n: chessboard	3
+1139	T	n: opposite	3
+1140	T	n: signal	3
+1141	T	n: clothes	3
+1142	T	an: past variable	3
+1143	T	n: pseudocode	3
+1144	T	an: reactive agent	3
+1145	T	a: blue	3
+1146	T	n: head	3
+1147	T	n: philosopher	3
+1148	T	n: summand	3
+1149	T	npn: degree of membership	3
+1150	T	n: pronoun	3
+1151	T	n: arrangement	3
+1152	T	nnn: truth table method	3
+1153	T	a: reflexive	3
+1154	T	ann: complete state formulation	3
+1155	T	ann: conditional independence assumption	3
+1156	T	nn: problem domain	3
+1157	T	npn: set of training	3
+1158	T	nn: system -	3
+1159	T	nn: search rule	3
+1160	T	nnn: horn clause logic	3
+1161	T	n: autonomy	3
+1162	T	n: possibility	3
+1163	T	a: declarative	3
+1164	T	ran: maximally specific hypothesis	3
+1164	V[s]	an: specific hypothesis	9
+1165	T	n: vj,vi	3
+1166	T	r: virtually	3
+1167	T	n: adjective	3
+1168	T	a: unifiable	3
+1169	T	an: syntactic ambiguity	3
+1170	T	nn: manhattan distance	3
+1171	T	an: classic logic	3
+1172	T	a: goal-based	3
+1173	T	nn: meaning representation	3
+1174	T	an: temporal link	3
+1175	T	n: remove	3
+1176	T	n: parser	3
+1177	T	npn: depth of node	3
+1178	T	npn: space of weight	3
+1179	T	an: lexical processing	3
+1180	T	n: multiplication	3
+1181	T	an: written text	3
+1182	T	n: opponent	3
+1183	T	n: lattice	3
+1184	T	an: conjunctive goal	3
+1185	T	nnn: state space representation	3
+1186	T	r: intelligently	3
+1187	T	nn: depth-first search	3
+1188	T	n: anns	3
+1189	T	nn: endif endfor	3
+1190	T	nn: operator instance	3
+1191	T	nn: concept learning	3
+1192	T	an: long time	3
+1193	T	n: mother	3
+1194	T	n: ridge	3
+1195	T	n: building	3
+1196	T	n: circumstance	3
+1197	T	npn: parent of node	3
+1198	T	an: expanded node	3
+1199	T	n: light	3
+1200	T	nnn: goal state description	3
+1201	T	n: train	3
+1202	T	nn: planning problem	3
+1203	T	n: proposition	3
+1204	T	nn: action sequence	3
+1205	T	a: transitive	3
+1206	T	r: infinitely	3
+1207	T	an: exact inference	3
+1208	T	nnn: queen problem formulation	3
+1209	T	n: reduction	3
+1210	T	nn: priority queue	3
+1211	T	n: f-limit	3
+1212	T	npn: set of variable	3
+1213	T	a: trivial	3
+1214	T	n: sonar	3
+1215	T	npn: interpretation of sentence	3
+1216	T	n: next-others	3
+1217	T	r: widely	3
+1218	T	n: fill-in-blanks	3
+1219	T	nnn: knowledge representation scheme	3
+1220	T	anpn: module10 reasoning with uncertainty	3
+1221	T	r: primarily	3
+1222	T	n: tweety	3
+1223	T	nn: information variable	3
+1224	T	n: item	3
+1225	T	a: evident	3
+1226	T	n: restriction	3
+1227	T	a: broad	3
+1228	T	n: criterion	3
+1229	T	n: claim	3
+1230	T	r: intuitively	3
+1231	T	n: body	3
+1232	T	nn: decision boundary	3
+1233	T	a: non-linear	3
+1234	T	a: non-deterministic	3
+1235	T	n: attention	3
+1236	T	n: in-list	3
+1237	T	an: deductive reasoning	3
+1238	T	n: sld-derivation	3
+1239	T	npn: definition of entailment	3
+1240	T	a: unsatisfied	3
+1241	T	nnn: plan modification operation	3
+1242	T	a: 2down	3
+1243	T	npn: set of rule	3
+1244	T	r: gradually	3
+1245	T	r: effectively	3
+1246	T	an: positive number	3
+1247	T	nn: control system	3
+1248	T	n: disjunction	3
+1249	T	a: unable	3
+1250	T	n: humidity	3
+1251	T	n: hold	3
+1252	T	n: connection	3
+1253	T	r: partly	3
+1254	T	nn: threshold fn	3
+1255	T	nn: agent architecture	3
+1256	T	nn: expert knowledge	3
+1257	T	r: necessarily	3
+1258	T	ann: straight line distance	3
+1259	T	r: systematically	3
+1260	T	npn: domain of vk	3
+1261	T	an: current domain	3
+1262	T	nn: membership grade	3
+1263	T	n: classification	3
+1264	T	r: specifically	3
+1265	T	npn: layer of unit	3
+1266	T	a: subjective	3
+1267	T	n: restarts	3
+1268	T	an: wide variety	3
+1269	T	an: initial plan	3
+1270	T	nn: reasoning process	3
+1271	T	r: automatically	3
+1272	T	npn: order of node	3
+1273	T	a: utility-based	3
+1274	T	an: probabilistic model	3
+1275	T	nn: knowledge engineer	3
+1276	T	nn: step function	3
+1277	T	npn: rule of thumb	3
+1278	T	nn: mar rover	3
+1279	T	nn: knowledge acquisition	3
+1280	T	n: subtree	3
+1281	T	ann: favorite programming language	3
+1282	T	nn: cost function	3
+1283	T	n: aristotle	3
+1284	T	n: date	3
+1285	T	nn: board position	3
+1286	T	n: backward-chaining	3
+1287	T	ann: neural network -	3
+1288	T	an: joint instantiation	3
+1289	T	nn: situation-space search	3
+1290	T	n: floor	3
+1291	T	an: free variable	3
+1292	T	n: code	3
+1293	T	an: variable vi	3
+1294	T	n: observability	3
+1295	T	nn: ith literal	3
+1296	T	n: matter	3
+1297	T	an: doggy bag	3
+1298	T	nann: - probabilistic reasoning lesson	3
+1299	T	an: small number	3
+1300	T	n: x-variants	3
+1301	T	n: log-likelihood	3
+1302	T	a: pseudo	3
+1303	T	an: current situation	3
+1304	T	a: female	3
+1305	T	nn: weight vector	3
+1306	T	a: parallel	3
+1307	T	nn: utility function	3
+1308	T	ann: single agent search	3
+1309	T	nn: conclusion sentence	3
+1310	T	n: subclass	3
+1311	T	n: culture	3
+1312	T	npn: resolvent of c1	3
+1313	T	n: researcher	3
+1314	T	an: propositional calculus	3
+1315	T	nn: ground clause	3
+1316	T	r: essentially	3
+1317	T	n: jack	3
+1318	T	n: designer	3
+1319	T	ann: natural language description	3
+1320	T	npn: game of tic-tac-toe	3
+1321	T	a: plausible	3
+1322	T	a: inefficient	3
+1323	T	npn: root of tree	3
+1324	T	n: friend	2
+1325	T	an: original clause	2
+1326	T	a: subject	2
+1327	T	an: b-ary tree	2
+1328	T	nn: reasoning method	2
+1329	T	npnnn: term of state space search	2
+1330	T	npn: meaning of word	2
+1331	T	nva: stage be complete	2
+1332	T	nn: information retrieval	2
+1333	T	npn: range of problem	2
+1334	T	a: colorado	2
+1335	T	ann: large state space	2
+1336	T	npnnn: variant of crossword puzzle problem	2
+1337	T	an: single perceptron	2
+1338	T	n: camera	2
+1339	T	an: close tie	2
+1340	T	n: disposal	2
+1341	T	n: pathplan	2
+1342	T	r: finally	2
+1343	T	an: internal state	2
+1344	T	ann: fuzzy inferencing system	2
+1345	T	anpn: sound rule of inference	2
+1346	T	anpnn: module10 reasoning with uncertainty -	2
+1347	T	n: iterative-deepening	2
+1348	T	n: doll	2
+1349	T	an: general statement	2
+1350	T	nva: planner be free	2
+1351	T	an: variable formula	2
+1352	T	an: true autonomy	2
+1353	T	nva: landscape be flat	2
+1354	T	ann: positive mammography test	2
+1355	T	an: inductive reasoning	2
+1356	T	n: punishment	2
+1357	T	an: large amount	2
+1358	T	ann: fuzzy expert system	2
+1359	T	nan: depth limited search	2
+1360	T	npn: field of nlp	2
+1361	T	an: current percept	2
+1362	T	n: medicine	2
+1363	T	nn: noun phrase	2
+1364	T	npn: action of agent	2
+1365	T	a: simultaneous	2
+1366	T	an: good action	2
+1367	T	nva: node be true	2
+1368	T	a: dead	2
+1369	T	a: unconstrained	2
+1370	T	nn: momentum term	2
+1371	T	naan: network artificial neural network	2
+1372	T	n: luminosity	2
+1373	T	nva: node be arc-consistent	2
+1374	T	ann: optimal goal state	2
+1375	T	npnn: frontier of search tree	2
+1376	T	nn: repeat step	2
+1377	T	a: green	2
+1378	T	nva: man be mortal	2
+1379	T	n: acting	2
+1380	T	an: initial set	2
+1381	T	nn: reasoning technique	2
+1382	T	nn: word-sense disambiguation	2
+1383	T	npan: reasoning with uncertainty-fuzzy reasoning	2
+1384	T	an: short tour	2
+1385	T	nva: space be infinite	2
+1386	T	n: multi	2
+1387	T	anpn: maximum number of node	2
+1388	T	npn: estimate of cpt	2
+1389	T	n: unsatisfiability	2
+1390	T	a: 3down	2
+1391	T	nn: class-precedence list	2
+1392	T	npn: class of task	2
+1393	T	nva: graph be k-consistent	2
+1394	T	nn: user interface	2
+1395	T	n: methodology	2
+1396	T	a: present	2
+1397	T	npn: representation of action	2
+1398	T	nva: plan be empty	2
+1399	T	n: hint	2
+1400	T	nn: minimax procedure	2
+1401	T	nnn: water jug problem	2
+1402	T	nnn: resolution proof procedure	2
+1403	T	n: morphology	2
+1404	T	nn: path arrow	2
+1405	T	npn: depth of solution	2
+1406	T	anpn: current state of world	2
+1407	T	nn: knowledge basis	2
+1408	T	ann: arc consistency algorithm	2
+1409	T	an: single literal	2
+1410	T	n: repair	2
+1411	T	n: exercise	2
+1412	T	npn: set of axiom	2
+1412	V[s]	npan: set of non-logical axiom	4
+1413	T	n: comment	2
+1414	T	n: mgus	2
+1415	T	an: inductive bias	2
+1416	T	npn: inheritance of default	2
+1417	T	a: provable	2
+1418	T	r: perfectly	2
+1419	T	ann: natural language generation	2
+1420	T	an: representational adequacy	2
+1421	T	an: empirical datum	2
+1422	T	a: dfid	2
+1423	T	r: commonly	2
+1424	T	nnn: sensor - percept	2
+1425	T	nva: sally be tall	2
+1426	T	npnn: group of membership function	2
+1427	T	an: current position	2
+1428	T	npan: spike of electrical activity	2
+1429	T	nnn: image analysis system	2
+1430	T	nn: lung cancer	2
+1431	T	nn: state-space search	2
+1431	V[img]	nnn: state space search	12
+1432	T	an: early failure	2
+1433	T	an: general axiom	2
+1434	T	n: corridor	2
+1435	T	an: open list	2
+1436	T	an: propositional symbol	2
+1437	T	an: mathematical function	2
+1438	T	nn: clause form	2
+1439	T	an: logical system	2
+1439	V[p]	an: biological system	2
+1440	T	n: adam	2
+1441	T	npn: element of class	2
+1442	T	nn: herbrand theorem	2
+1443	T	npn: application of resolution	2
+1444	T	n: corpus	2
+1445	T	an: n-ary function	2
+1446	T	r: slowly	2
+1447	T	npn: parameter of cpt	2
+1448	T	npn: nature of intelligence	2
+1449	T	nva: path be irrelevant	2
+1450	T	an: fuzzy terminology	2
+1451	T	nn: plan-space planning	2
+1452	T	nn: salesperson problem	2
+1453	T	nn: feature vector	2
+1454	T	an: open precondition	2
+1455	T	a: 1across	2
+1456	T	a: not-poisonous	2
+1457	T	n: activation	2
+1458	T	nn: environment change	2
+1459	T	r: naturally	2
+1460	T	npn: sequence of predicate	2
+1461	T	n: hamburger	2
+1462	T	n: faith	2
+1463	T	npn: space of plan	2
+1464	T	an: special class	2
+1465	T	npn: pair of variable	2
+1466	T	a: probable	2
+1467	T	npn: conjunction of attribute	2
+1468	T	nn: pathmax equation	2
+1469	T	an: maximum likelihood	2
+1470	T	nann: return consistent end ac3-fc	2
+1471	T	anpn: syntactic structure of sentence	2
+1472	T	n: dimension	2
+1473	T	a: supporting	2
+1474	T	a: real-time	2
+1475	T	n: thousand	2
+1476	T	ran: fully observable environment	2
+1477	T	n: reaction	2
+1478	T	a: male	2
+1479	T	an: single action	2
+1480	T	an: goal-based agent	2
+1481	T	a: n-dimensional	2
+1482	T	r: rarely	2
+1483	T	nan: case specific data	2
+1484	T	ncnn: peg and disk problem	2
+1485	T	a: ready	2
+1486	T	npn: successor of state	2
+1487	T	nn: steering action	2
+1488	T	an: simple word	2
+1489	T	ann: uncertainty-fuzzy reasoning lesson	2
+1490	T	nnn: board successor function	2
+1491	T	r: miraculously	2
+1492	T	n: posterori	2
+1493	T	nva: arc be reversible	2
+1494	T	a: n-consistency	2
+1495	T	an: human thought	2
+1496	T	an: incidental variable	2
+1497	T	n: project	2
+1498	T	nn: unit preference	2
+1499	T	n: stand	2
+1500	T	npn: table of number	2
+1501	T	an: standard deviation	2
+1502	T	r: locally	2
+1503	T	npn: range of task	2
+1504	T	npn: track of change	2
+1505	T	r: totally	2
+1506	T	npn: representation of plan	2
+1507	T	n: receiver	2
+1508	T	an: constituent symbol	2
+1509	T	ran: alphabetically small node	2
+1510	T	nva: child be true	2
+1511	T	nva: game be clear	2
+1512	T	nn: agent function	2
+1513	T	nva: opponent be rational	2
+1514	T	nn: process control	2
+1515	T	n: correctness	2
+1516	T	nnnnn: time complexity space complexity termination	2
+1517	T	npn: instance of class	2
+1518	T	nn: establishment -	2
+1519	T	nn: third-to-last column	2
+1520	T	an: quiescent state	2
+1521	T	nva: student be poor	2
+1522	T	nn: translation system	2
+1523	T	ann: naive bayes assumption	2
+1524	T	aan: conjunctive normal form	2
+1525	T	an: good successor	2
+1526	T	ann: gradient descent search	2
+1527	T	n: charles	2
+1528	T	n: husband	2
+1529	T	n: swim	2
+1530	T	an: specialized knowledge	2
+1531	T	an: global minimum	2
+1532	T	an: entire knowledge-base	2
+1533	T	nn: wander behaviour	2
+1534	T	n: initialization	2
+1535	T	ann: high order logic	2
+1536	T	n: wenstop	2
+1537	T	nnn: perception action pair	2
+1538	T	an: semantic difference	2
+1539	T	n: δwji	2
+1540	T	npn: union of open	2
+1541	T	n: instrument	2
+1542	T	nn: rule induction	2
+1543	T	an: minimal generalization	2
+1544	T	nann: dk empty endif endwhile	2
+1545	T	r: dynamically	2
+1546	T	an: incomplete plan	2
+1547	T	an: open set	2
+1548	T	nva: result be characteristic	2
+1549	T	npn: content of fringe	2
+1550	T	nva: representation be consistent	2
+1551	T	n: semi-decidability	2
+1552	T	nn: column cost	2
+1553	T	npan: point of maximal truth	2
+1554	T	nn: algorithm -	2
+1555	T	nva: environment be stochastic	2
+1556	T	nn: life expectancy	2
+1557	T	nnn: decision tree construction	2
+1558	T	npn: set of node	2
+1559	T	npn: effect of action	2
+1560	T	n: trend	2
+1561	T	n: brother	2
+1562	T	a: semi-decidable	2
+1563	T	an: logical sentence	2
+1564	T	nva: symbol be true	2
+1565	T	a: 2-ary	2
+1566	T	n: functionality	2
+1567	T	nva: successor be bad	2
+1568	T	n: stack	2
+1569	T	a: brown	2
+1570	T	nnn: knowledge base gamma	2
+1571	T	an: important feature	2
+1572	T	r: deep	2
+1573	T	n: unionbldg	2
+1574	T	nva: case be close	2
+1575	T	an: valid consequence	2
+1576	T	an: conditional distribution	2
+1577	T	nva: resolution be complete	2
+1578	T	n: specialist	2
+1579	T	an: minimal cost	2
+1580	T	an: three-valued logic	2
+1581	T	nn: nl understanding	2
+1582	T	nn: clause c1	2
+1583	T	n: vagueness	2
+1584	T	npn: set of perception	2
+1585	T	a: watergate	2
+1586	T	npn: proof of phi	2
+1587	T	n: goddess	2
+1588	T	n: center	2
+1589	T	n: lemma	2
+1590	T	anpn: intuitive meaning of arrow	2
+1591	T	n: business	2
+1592	T	anpn: maximum number of step	2
+1593	T	n: hyperplane	2
+1594	T	npnn: property of search algorithm	2
+1595	T	n: cfgs	2
+1596	T	n: combine	2
+1597	T	npn: side of river	2
+1598	T	nn: answer literal	2
+1599	T	n: alarm	2
+1600	T	r: interchangeably	2
+1601	T	nva: solution be unimportant	2
+1602	T	an: planar map	2
+1603	T	nnpn: search tree of depth	2
+1604	T	n: doctor	2
+1605	T	nn: find-difference function	2
+1606	T	an: acquisitional efficiency	2
+1607	T	an: probabilistic calculation	2
+1608	T	n: play	2
+1609	T	npn: goal of agent	2
+1610	T	a: gaussian	2
+1611	T	n: contrast	2
+1612	T	r: carefully	2
+1613	T	nn: alpha-beta algorithm	2
+1614	T	an: static environment	2
+1615	T	nn: agent program	2
+1616	T	r: equally	2
+1617	T	anpn: non-empty sequence of action	2
+1618	T	nnn: decision tree -	2
+1619	T	an: best-first search	2
+1620	T	a: constrained	2
+1621	T	an: fuzzy rule	2
+1622	T	an: linear space	2
+1623	T	anan: 2-gallon jug initial state	2
+1624	T	anpn: random valuation of variable	2
+1625	T	nva: world be independent	2
+1626	T	nnn: situation-space progression planner	2
+1627	T	an: cognitive science	2
+1628	T	nva: saving be minimal	2
+1629	T	nva: variable be equal	2
+1630	T	nva: node be equivalent	2
+1631	T	nn: information theory	2
+1632	T	nnn: queen successor function	2
+1633	T	an: mixed inference	2
+1634	T	ann: semantic network student	2
+1635	T	an: compact representation	2
+1636	T	ran: initially empty loop	2
+1637	T	n: pseudo-steps	2
+1638	T	a: word-level	2
+1639	T	n: vertex	2
+1640	T	nva: queen be meaningless	2
+1641	T	nva: action be indivisible	2
+1642	T	aan: empty 2-gallon jug	2
+1643	T	an: estimated cost	2
+1644	T	an: 19th century	2
+1645	T	an: arbitrary function	2
+1646	T	an: 8-queens problem	2
+1647	T	anpn: total number of state	2
+1648	T	nva: statement be equivalent	2
+1649	T	an: propositional formula	2
+1650	T	an: compatible element	2
+1651	T	n: revise	2
+1652	T	n: office	2
+1653	T	r: repeatedly	2
+1654	T	an: initial situation	2
+1655	T	ann: initial state description	2
+1656	T	an: legal move	2
+1657	T	nva: algorithm be optimal	2
+1658	T	a: extreme	2
+1659	T	an: efficient program	2
+1660	T	nn: situation-space planner	2
+1660	V[s]	nnn: situation-space progression planner	2
+1661	T	n: cut-off	2
+1662	T	nnpn: table method of inference	2
+1663	T	nnnn: constraint satisfaction problem -	2
+1664	T	n: factoring	2
+1665	T	r: substantially	2
+1666	T	npan: domain of individual variable	2
+1667	T	npn: union of gamma	2
+1668	T	an: four-valued logic	2
+1669	T	a: prone	2
+1670	T	ann: shallow goal node	2
+1671	T	r: equivalently	2
+1672	T	n: star	2
+1673	T	npn: property of algorithm	2
+1674	T	an: 4-queens problem	2
+1675	T	npnn: portion of state space	2
+1676	T	a: fast	2
+1677	T	nn: effect list	2
+1678	T	n: transfer	2
+1679	T	an: substantial impact	2
+1680	T	an: consistent hypothesis	2
+1681	T	n: violation	2
+1682	T	an: medical diagnosis	2
+1683	T	npn: order of variable	2
+1684	T	an: current player	2
+1685	T	a: descriptive	2
+1686	T	npn: cost of solution	2
+1687	T	r: universally	2
+1688	T	nn: monte carlo	2
+1689	T	an: crisp function	2
+1690	T	a: beneficial	2
+1691	T	nnpn: state space of problem	2
+1692	T	an: unsolved goal	2
+1693	T	nn: ground literal	2
+1694	T	n: heading	2
+1695	T	a: medium	2
+1696	T	nn: database system	2
+1697	T	n: admissibility	2
+1698	T	an: fuzzy theorist	2
+1699	T	a: inherent	2
+1700	T	n: gratuity	2
+1701	T	an: n-ary constraint	2
+1702	T	a: inverse	2
+1703	T	an: semantic relation	2
+1704	T	n: presence	2
+1705	T	nn: prolog program	2
+1706	T	a: context-independent	2
+1707	T	npan: choice of next variable	2
+1708	T	n: conference	2
+1709	T	ncnn: start and goal state	2
+1710	T	ann: joint probability distribution	2
+1711	T	aann: fictitious medical expert system	2
+1712	T	nnn: weight update rule	2
+1713	T	an: internal representation	2
+1714	T	a: martian	2
+1715	T	nn: search path	2
+1716	T	a: arithmetic	2
+1717	T	an: logical expression	2
+1718	T	an: supervised learning	2
+1718	V[gp]	an: unsupervised learning	4
+1719	T	n: response	2
+1720	T	ann: instructional objective student	2
+1721	T	n: achievement	2
+1722	T	aan: model-based reflex agent	2
+1723	T	nva: solution be hard	2
+1724	T	nan: search bidirectional search	2
+1725	T	nn: path planning	2
+1726	T	nn: disambiguation -	2
+1727	T	nn: chess queen	2
+1728	T	nn: action description	2
+1729	T	n: engineering	2
+1730	T	n: flow	2
+1731	T	npn: bunch of banana	2
+1732	T	nn: commonsense knowledge	2
+1733	T	annn: partial order planning algorithm	2
+1734	T	nan: board initial state	2
+1735	T	r: autonomously	2
+1736	T	nn: constraint s1	2
+1737	T	n: experiment	2
+1738	T	a: algorithmic	2
+1739	T	nnan: endwhile return consistent end	2
+1740	T	an: 2^n row	2
+1741	T	n: trace	2
+1742	T	nva: memory be full	2
+1743	T	r: quantitatively	2
+1744	T	npn: kind of constraint	2
+1745	T	n: first-fail	2
+1746	T	ann: propositional logic inference	2
+1747	T	an: eventual solution	2
+1748	T	an: good choice	2
+1749	T	an: 15-puzzle problem	2
+1750	T	nn: premise sentence	2
+1751	T	npnn: model of search tree	2
+1752	T	an: goal-test predicate	2
+1753	T	n: andrew	2
+1754	T	n: route	2
+1755	T	a: convenient	2
+1756	T	an: non-strict local-minimum	2
+1757	T	an: good state	2
+1758	T	n: road	2
+1759	T	an: constant symbol	2
+1760	T	nn: definition -	2
+1761	T	n: deliberation	2
+1762	T	nn: alpha-beta search	2
+1763	T	npan: representation of joint distribution	2
+1764	T	a: concrete	2
+1765	T	nva: environment be discrete	2
+1766	T	nn: application area	2
+1767	T	an: wide range	2
+1768	T	nn: input variable	2
+1769	T	nn: max node	2
+1770	T	nn: color theorem	2
+1771	T	an: intelligent system	2
+1772	T	an: hard case	2
+1773	T	n: symptom	2
+1774	T	an: relevant feature	2
+1775	T	a: nondecreasing	2
+1776	T	n: exception	2
+1777	T	n: winner	2
+1778	T	nva: language be ambiguous	2
+1779	T	an: general hypothesis	2
+1780	T	an: variational parameter	2
+1781	T	an: monotonic reasoning	2
+1782	T	an: percept-based agent	2
+1783	T	n: guwahati	2
+1784	T	nva: assertion be non-monotonic	2
+1785	T	ncan: function and predicate symbol	2
+1786	T	nn: action definition	2
+1787	T	ann: full 5-gallon jug	2
+1788	T	n: communication	2
+1789	T	npnnn: front of fringe end loop	2
+1790	T	npn: space of situation	2
+1791	T	an: past assignment	2
+1792	T	nn: step cost	2
+1793	T	r: visibly	2
+1794	T	nva: table be large	2
+1795	T	n: king	2
+1796	T	an: strong ai	2
+1797	T	n: categorization	2
+1798	T	nnn: information processing capability	2
+1799	T	nva: path be important	2
+1800	T	nva: neighbor be large	2
+1801	T	an: good attribute	2
+1802	T	npn: law of thought	2
+1803	T	npan: conjunction of positive literal	2
+1804	T	nva: plan be complete	2
+1804	V[s]+	an: complete plan	5
+1805	T	anpn: empty sequence of action	2
+1806	T	n: origin	2
+1807	T	an: real prolog	2
+1808	T	a: unseen	2
+1809	T	an: genealogical tree	2
+1810	T	nnn: first-order logic sentence	2
+1811	T	nn: fol statement	2
+1812	T	ncnn: induction and decision tree	2
+1813	T	nn: adversarial search	2
+1814	T	nn: max player	2
+1815	T	nn: queen goal	2
+1816	T	an: automated vehicle	2
+1817	T	nn: cannibal problem	2
+1818	T	nnn: representation formalism lesson	2
+1819	T	nva: rule be sound	2
+1820	T	a: non-null	2
+1821	T	an: hierarchical structure	2
+1822	T	n: construct	2
+1823	T	an: exact inferencing	2
+1824	T	nn: perceptron output	2
+1825	T	nnn: endwhile end ac-3	2
+1826	T	r: suitably	2
+1827	T	nn: recycling bin	2
+1828	T	npnnn: term of time complexity space	2
+1829	T	an: exact input	2
+1830	T	ann: syntactic ambiguity -	2
+1831	T	an: undirected path	2
+1832	T	nn: straight-line distance	2
+1832	V[img]	ann: straight line distance	3
+1833	T	nva: table be simple	2
+1834	T	ann: automated theorem provers	2
+1835	T	nva: pair be arc-consistent	2
+1836	T	n: speaker	2
+1837	T	nva: design be bottom	2
+1838	T	nva: node be binary	2
+1839	T	an: continuous function	2
+1840	T	an: real number	2
+1841	T	nn: exploration behaviour	2
+1842	T	npan: neighbor of current state	2
+1843	T	n: promise	2
+1844	T	an: linguistic description	2
+1845	T	nnn: order logic -	2
+1846	T	an: recursive rule	2
+1847	T	an: s1 union	2
+1848	T	nva: form be satisfiable	2
+1849	T	n: a-b-c-f-h	2
+1850	T	a: modal	2
+1851	T	n: summation	2
+1852	T	nnn: state space formulation	2
+1853	T	nn: progression situation-space	2
+1854	T	an: high score	2
+1855	T	n: chapter	2
+1856	T	n: phonology	2
+1857	T	nn: pc user	2
+1858	T	an: sub-plan step	2
+1859	T	a: posterior	2
+1860	T	n: increase	2
+1861	T	npn: domain of variable	2
+1861	V[s]	npan: domain of individual variable	2
+1862	T	nn: parent pointer	2
+1863	T	nn: decision-support system	2
+1864	T	nn: language student	2
+1865	T	n: boole	2
+1866	T	an: bare foot	2
+1867	T	n: rugby-player	2
+1868	T	nva: premise be true	2
+1869	T	a: omniscient	2
+1870	T	n: linearization	2
+1871	T	n: sony	2
+1872	T	an: actual distance	2
+1873	T	nn: kth variable	2
+1874	T	nva: goal be feasible	2
+1875	T	n: fifo	2
+1876	T	nva: action be pre-determined	2
+1877	T	n: earthquake	2
+1878	T	n: fido	2
+1879	T	aan: good first search	2
+1880	T	r: prohibitively	2
+1881	T	nn: domain di	2
+1882	T	n: fashion	2
+1883	T	npn: domain of vi	2
+1884	T	a: involved	2
+1885	T	an: specific relation	2
+1886	T	n: classroom	2
+1887	T	n: money	2
+1888	T	nn: herbrand base	2
+1889	T	n: capital	2
+1890	T	n: industry	2
+1891	T	n: statue	2
+1892	T	a: significant	2
+1893	T	an: linear combination	2
+1894	T	aan: module13 natural language	2
+1895	T	an: mean-field approximation	2
+1896	T	an: empty clause	2
+1897	T	ann: suitable search strategy	2
+1898	T	an: real problem	2
+1899	T	ann: uninformed search method	2
+1900	T	n: capacity	2
+1901	T	nn: output space	2
+1902	T	nva: assertion be valid	2
+1903	T	an: deductive system	2
+1904	T	npnn: concept of herbrand universe	2
+1905	T	n: rightshoeon	2
+1906	T	n: noise	2
+1907	T	an: smart person	2
+1908	T	nn: depth bound	2
+1909	T	r: inherently	2
+1910	T	an: knowledge-based agent	2
+1911	T	a: single-agent	2
+1911	V[mg]	an: single agent	4
+1912	T	npnpn: number of gallon of water	2
+1913	T	r: robustly	2
+1914	T	an: multilayer network	2
+1915	T	ann: local search method	2
+1916	T	an: single queen	2
+1917	T	ann: two-agent search problem	2
+1918	T	n: lisp	2
+1919	T	nnnnn: complexity space complexity termination optimality	2
+1920	T	a: predicative	2
+1921	T	an: heuristic estimate	2
+1922	T	npn: model of kb	2
+1923	T	an: common situation	2
+1924	T	nva: algorithm be complete	2
+1925	T	npn: reduction of domain	2
+1926	T	npn: set of form	2
+1927	T	nn: consistency checking	2
+1928	T	nnpn: chain rule of probability	2
+1929	T	n: means	2
+1930	T	n: mlps	2
+1931	T	n: talos	2
+1932	T	an: closed node	2
+1933	T	nn: phone number	2
+1934	T	an: extra information	2
+1935	T	npnn: order of node expansion	2
+1936	T	an: logical language	2
+1937	T	an: bayesian net	2
+1938	T	n: struct	2
+1939	T	nnn: knowledge base editor	2
+1940	T	nn: regression situation-space	2
+1941	T	n: utah	2
+1942	T	npn: kind of problem	2
+1943	T	an: back yard	2
+1944	T	n: non-descendants	2
+1945	T	an: approximate inference	2
+1946	T	n: aibo	2
+1947	T	an: human reasoning	2
+1948	T	ncnn: isa and instance link	2
+1949	T	nn: fuzzification process	2
+1950	T	nn: back-propagation algorithm	2
+1951	T	nan: domain specific knowledge	2
+1952	T	n: reinforcement	2
+1953	T	anpn: cartesian product of domain	2
+1954	T	nn: substitution instance	2
+1955	T	n: background	2
+1956	T	nn: imitation game	2
+1957	T	n: prototype	2
+1958	T	an: local maximum	2
+1959	T	an: utility-based agent	2
+1960	T	nn: processing operation	2
+1961	T	n: leftshoeon	2
+1962	T	n: popularity	2
+1963	T	an: partial path	2
+1964	T	n: thesis	2
+1965	T	a: non-interleaving	2
+1966	T	npn: member of class	2
+1967	T	npn: conjunction of literal	2
+1967	V[s]	npan: conjunction of positive literal	2
+1968	T	a: ac-4	2
+1969	T	nnn: output membership function	2
+1970	T	nn: propagation technique	2
+1971	T	nn: system variable	2
+1972	T	an: biological system	2
+1973	T	nva: csp be binary	2
+1973	V[s]	an: binary csp	4
+1974	T	a: hungry	2
+1975	T	a: switch2	2
+1976	T	nnpn: evaluation value of state	2
+1977	T	r: sufficiently	2
+1978	T	n: mathematician	2
+1979	T	an: variable xi	2
+1980	T	an: required knowledge	2
+1981	T	nn: independence relation	2
+1982	T	npn: point of view	2
+1983	T	n: energy	2
+1984	T	n: bicycle	2
+1985	T	a: representative	2
+1986	T	npn: instance of rugby-team	2
+1987	T	nn: water sprinker	2
+1988	T	r: recently	2
+1989	T	npn: sequence of state	2
+1990	T	nn: plan-space planner	2
+1991	T	a: wrong	2
+1992	T	an: real answer	2
+1993	T	an: non-logical symbol	2
+1994	T	an: simple strategy	2
+1995	T	an: semantic knowledge	2
+1996	T	an: left bank	2
+1997	T	n: alphabet	2
+1998	T	nva: variable be free	2
+1998	V[s]	an: free variable	3
+1999	T	nn: reasoning mechanism	2
+2000	T	an: predicate calculus	2
+2001	T	an: low animal	2
+2002	T	nn: fire rule	2
+2003	T	n: suggestion	2
+2004	T	an: optimal order	2
+2005	T	nnnn: percept agent environment action	2
+2006	T	an: probabilistic statemenst	2
+2007	T	nn: subset relation	2
+2008	T	a: integral	2
+2009	T	n: np-hard	2
+2010	T	annn: empty endif endwhile return	2
+2011	T	a: electronic	2
+2012	T	an: direct object	2
+2013	T	an: acyclic graph	2
+2014	T	n: a,b,c	2
+2015	T	r: originally	2
+2016	T	nn: po tagger	2
+2017	T	an: electrical effect	2
+2018	T	npn: lump of coal	2
+2019	T	an: terminal position	2
+2020	T	nva: cutset be large	2
+2021	T	a: acceptable	2
+2022	T	nn: part-of-speech tag	2
+2023	T	nn: anaphora resolution	2
+2024	T	an: intermediate variable	2
+2025	T	a: 1-ary	2
+2026	T	npnn: depth of search tree	2
+2027	T	n: mistake	2
+2028	T	npn: binding of variable	2
+2029	T	npn: application of rule	2
+2030	T	npnn: step of search algorithm	2
+2031	T	an: previous revision	2
+2032	T	a: narrow	2
+2033	T	a: downhill	2
+2034	T	npn: literal of goal	2
+2035	T	a: so-called	2
+2036	T	nva: operator be applicable	2
+2037	T	nn: game board	2
+2038	T	an: random point	2
+2039	T	n: split	2
+2040	T	nva: in-list be non-monotonic	2
+2041	T	an: complete iff	2
+2042	T	n: supermarket	2
+2043	T	a: formula1	2
+2044	T	a: formula2	2
+2045	T	n: adult-male	1
+2046	T	an: tree-structured csp	1
+2047	T	n: spanner	1
+2048	T	n: skip	1
+2049	T	n: skin	1
+2050	T	n: diner	1
+2051	T	an: entity-based organisation	1
+2052	T	n: contast	1
+2053	T	n: mammal	1
+2054	T	a: enormous	1
+2055	T	a: affected	1
+2056	T	a: n-tuple	1
+2057	T	n: million	1
+2058	T	n: episodicity	1
+2059	T	an: advanced heuristic	1
+2060	T	r: rigorously	1
+2061	T	an: direction-dependent separation	1
+2062	T	n: gauss	1
+2063	T	n: guaranty	1
+2064	T	n: parenthesis	1
+2065	T	n: vm,vk	1
+2066	T	a: topological	1
+2067	T	nn: alta vista	1
+2068	T	n: door	1
+2069	T	n: paper	1
+2070	T	n: dictum	1
+2071	T	a: vice	1
+2072	T	n: bronze	1
+2073	T	n: reflection	1
+2074	T	an: variable 1across	1
+2075	T	a: young	1
+2076	T	nn: display info	1
+2077	T	n: acceptance	1
+2078	T	n: abduction	1
+2079	T	n: surroundings	1
+2080	T	n: prey	1
+2081	T	a: box2	1
+2082	T	a: box1	1
+2083	T	an: symbolic integration	1
+2084	T	n: versatility	1
+2085	T	n: freedom	1
+2086	T	npn: doctrine of pacifism	1
+2087	T	n: shower	1
+2088	T	n: reality	1
+2089	T	n: texture	1
+2090	T	n: convenience	1
+2091	T	an: revolutionary advance	1
+2092	T	n: adjustment	1
+2093	T	n: algernon	1
+2094	T	a: metric	1
+2095	T	n: projection	1
+2096	T	n: foundation	1
+2097	T	n: myth	1
+2098	T	r: intolerably	1
+2099	T	n: nutshell	1
+2100	T	n: aberration	1
+2101	T	a: nominal	1
+2102	T	n: alice	1
+2103	T	n: kidney	1
+2104	T	n: focus	1
+2105	T	nn: end ac3-la	1
+2106	T	nn: death end	1
+2107	T	r: intentionally	1
+2108	T	n: abstraction	1
+2109	T	n: rotation	1
+2110	T	n: reasoner	1
+2111	T	n: logarithm	1
+2112	T	a: ldoor1	1
+2113	T	a: ldoor2	1
+2114	T	a: subconscious	1
+2115	T	a: goal-directed	1
+2116	T	n: marsh	1
+2117	T	a: robust	1
+2118	T	n: finger	1
+2119	T	r: secondarily	1
+2120	T	a: 3-satisfiability	1
+2121	T	a: first-order-logic	1
+2121	V[mg]	nn: first-order logic	3
+2122	T	n: subsample	1
+2123	T	n: emphasis	1
+2124	T	r: smoothly	1
+2125	T	r: incorrectly	1
+2126	T	n: di-transitive	1
+2127	T	a: worth	1
+2128	T	n: determinism	1
+2129	T	nn: taste bud	1
+2130	T	a: 6down	1
+2131	T	nn: pygmalion olio	1
+2132	T	n: mcculloch	1
+2133	T	n: genus	1
+2134	T	a: lucky	1
+2135	T	n: proxy	1
+2136	T	n: topic	1
+2137	T	a: smooth	1
+2138	T	n: glance	1
+2139	T	n: fsts	1
+2140	T	n: wishart	1
+2141	T	n: eye-color	1
+2142	T	a: node-consistency	1
+2142	V[mg]	nn: node consistency	3
+2143	T	n: extent	1
+2144	T	n: quake	1
+2145	T	n: descartes	1
+2146	T	n: priori	1
+2147	T	n: dream	1
+2148	T	n: cardinality	1
+2149	T	n: from-loc	1
+2150	T	a: non-equivalent	1
+2151	T	n: trick	1
+2152	T	r: commercially	1
+2153	T	a: enough—it	1
+2154	T	a: unweighted	1
+2155	T	n: observation	1
+2156	T	nn: kurt gödel	1
+2157	T	n: consideration	1
+2158	T	n: αδwji	1
+2159	T	a: differentiable	1
+2160	T	n: atns	1
+2161	T	n: cross-entropy	1
+2162	T	n: declobbering	1
+2163	T	a: versatile	1
+2164	T	n: pacifist	1
+2165	T	n: recursion	1
+2166	T	n: window	1
+2167	T	an: variable other-form	1
+2168	T	n: indeterminates	1
+2169	T	r: alternately	1
+2170	T	n: hammer	1
+2171	T	r: compactly	1
+2172	T	n: salesman	1
+2173	T	n: lecturer	1
+2174	T	n: rightsockon	1
+2175	T	n: experimentation	1
+2176	T	a: room2	1
+2177	T	a: n-queen	1
+2178	T	a: room1	1
+2179	T	a: 3-consistent	1
+2180	T	n: reliance	1
+2181	T	an: 45mm hole	1
+2182	T	r: versa	1
+2183	T	a: chronological	1
+2184	T	a: base	1
+2185	T	r: schematically	1
+2186	T	n: horizontal	1
+2187	T	nn: judea pearl	1
+2188	T	n: defence	1
+2189	T	a: extensible	1
+2190	T	n: poem	1
+2191	T	n: email	1
+2192	T	a: multi-lingual	1
+2193	T	n: fixture	1
+2194	T	n: beth	1
+2195	T	n: invertebrate	1
+2196	T	n: carrier	1
+2197	T	n: lunch	1
+2198	T	an: outgoing arc	1
+2199	T	n: k-sat	1
+2200	T	a: inclusive	1
+2201	T	n: menu	1
+2202	T	n: flavor	1
+2203	T	a: board1	1
+2204	T	nnn: credit card fraud	1
+2205	T	a: 5down	1
+2206	T	r: apriori	1
+2207	T	n: to-loc	1
+2208	T	an: multiplicative subexpressions	1
+2209	T	n: lbox1start	1
+2210	T	a: 2-consistency	1
+2211	T	n: paramodulation	1
+2212	T	n: reaching	1
+2213	T	n: tremor	1
+2214	T	a: 3sat	1
+2215	T	n: vertical	1
+2216	T	n: humid,dry	1
+2217	T	n: cardiologist	1
+2218	T	n: fill-in	1
+2219	T	ann: tic-tac - toe	1
+2220	T	n: volt	1
+2221	T	n: minibuckets	1
+2222	T	n: beginning	1
+2223	T	a: accessible	1
+2224	T	n: patient	1
+2225	T	r: appropriately	1
+2226	T	r: solely	1
+2227	T	an: mischievous martian	1
+2228	T	n: substitute	1
+2229	T	an: historic fuzziness	1
+2230	T	r: extensively	1
+2231	T	r: temporarily	1
+2232	T	a: possessive	1
+2233	T	n: determiner	1
+2234	T	n: indices	1
+2235	T	n: pitts	1
+2236	T	r: frequently	1
+2237	T	n: semi	1
+2238	T	a: alternate	1
+2239	T	n: oscillation	1
+2240	T	r: sooner	1
+2241	T	r: outward	1
+2242	T	n: hegel	1
+2243	T	r: operationally	1
+2244	T	n: prefix	1
+2245	T	r: happily	1
+2246	T	nnpn: semantics semantics of quantifier	1
+2247	T	a: viable	1
+2248	T	a: intriguing	1
+2249	T	n: guide	1
+2250	T	n: mcmc	1
+2251	T	n: metaclasses	1
+2252	T	r: adequately	1
+2253	T	n: auction	1
+2254	T	n: yielding	1
+2255	T	a: urban	1
+2256	T	n: parminedes	1
+2257	T	n: interrelationship	1
+2258	T	r: inductively	1
+2259	T	n: expense	1
+2260	T	a: red,?,?,humid	1
+2261	T	r: subsequently	1
+2262	T	n: community	1
+2263	T	n: marginalization	1
+2264	T	a: unconditional	1
+2265	T	r: independently	1
+2266	T	n: metaphor	1
+2267	T	a: 4across	1
+2268	T	a: adaptable	1
+2269	T	r: separately	1
+2270	T	an: - neighborhood	1
+2271	T	npn: beach of crete	1
+2272	T	n: 1960s	1
+2273	T	n: microcontroller	1
+2274	T	a: indistinguishable	1
+2275	T	r: goto	1
+2276	T	a: calculable	1
+2277	T	a: stuck	1
+2278	T	n: subdivision	1
+2279	T	n: skolem	1
+2280	T	n: otherconnectives	1
+2281	T	n: modularity	1
+2282	T	n: absence	1
+2283	T	npn: centroid of set	1
+2284	T	n: education	1
+2285	T	r: notably	1
+2286	T	n: lexicon	1
+2287	T	an: human-like artifact	1
+2288	T	r: semantically	1
+2289	T	r: harder	1
+2290	T	n: vertes	1
+2291	T	a: data-driven	1
+2292	T	n: truth-value	1
+2293	T	r: interestingly	1
+2294	T	an: interstellar travel	1
+2295	T	n: predator	1
+2296	T	n: oracle	1
+2297	T	a: tricky	1
+2298	T	n: preorder	1
+2299	T	n: falsity	1
+2300	T	a: pathological	1
+2301	T	r: strategically	1
+2302	T	r: extensionally	1
+2303	T	n: maze	1
+2304	T	n: subproblem	1
+2305	T	n: variance	1
+2306	T	n: mouth	1
+2307	T	n: hephaestus	1
+2308	T	n: morton	1
+2309	T	a: j-consistent	1
+2310	T	a: finished	1
+2311	T	a: red,small,?,humid	1
+2312	T	a: deducible	1
+2313	T	a: tidying-up	1
+2314	T	n: marx	1
+2315	T	n: literature	1
+2316	T	n: concatenation	1
+2317	T	n: transducer	1
+2318	T	n: coalition	1
+2319	T	n: non-words	1
+2320	T	n: mamd	1
+2321	T	a: nil>	1
+2322	T	n: instability	1
+2323	T	n: bridge	1
+2324	T	a: 8across	1
+2325	T	n: contribution	1
+2326	T	n: forecasting	1
+2327	T	a: intended	1
+2328	T	r: double	1
+2329	T	n: array	1
+2330	T	n: dartmouth	1
+2331	T	a: indetermined	1
+2332	T	n: rugby	1
+2333	T	a: philosophical	1
+2334	T	a: reachable	1
+2335	T	n: account	1
+2336	T	nn: insert ni	1
+2337	T	r: easier	1
+2338	T	n: newspaper	1
+2339	T	r: greatly	1
+2340	T	n: stock	1
+2341	T	n: self-organisation	1
+2342	T	a: attractive	1
+2343	T	a: flexible	1
+2344	T	a: bi-1	1
+2345	T	a: clean	1
+2346	T	n: modifier	1
+2347	T	a: rough	1
+2348	T	npn: basin of attraction	1
+2349	T	n: nilsson	1
+2350	T	n: disjunct	1
+2351	T	n: bumper	1
+2352	T	r: extremely	1
+2353	T	n: lecture	1
+2354	T	n: hart	1
+2355	T	n: p,q,r	1
+2356	T	n: meeting	1
+2357	T	n: flip	1
+2358	T	n: sale	1
+2359	T	n: half	1
+2360	T	n: round	1
+2361	T	n: 1950s	1
+2362	T	a: adequate	1
+2363	T	n: heraclitus	1
+2364	T	a: preferable	1
+2365	T	an: staunch traditionalist	1
+2366	T	a: layer2	1
+2367	T	n: insight	1
+2368	T	n: pascal	1
+2369	T	n: china	1
+2370	T	n: zeus	1
+2371	T	a: usable	1
+2372	T	a: antisymmetric	1
+2373	T	n: lifetime	1
+2374	T	n: encapsulation	1
+2375	T	n: formality	1
+2376	T	n: geology	1
+2377	T	a: commutative	1
+2378	T	a: infrared	1
+2379	T	a: fraught	1
+2380	T	n: university	1
+2381	T	a: cathrine	1
+2382	T	nn: dirichlet prior	1
+2383	T	n: k-consistency	1
+2384	T	a: associative	1
+2385	T	n: decision-tree	1
+2385	V[mg]+	nn: decision tree	18
+2386	T	r: home	1
+2387	T	a: low,high	1
+2388	T	n: determinant	1
+2389	T	an: black box	1
+2390	T	n: pressure	1
+2391	T	n: generate-and-test	1
+2392	T	n: juncture	1
+2393	T	n: magic	1
+2394	T	n: setting	1
+2395	T	n: minerologist	1
+2396	T	n: determination	1
+2397	T	a: 7across	1
+2398	T	a: lswitch1	1
+2399	T	r: dramatically	1
+2400	T	r: wholly	1
+2401	T	n: motivation	1
+2402	T	n: dendrite	1
+2403	T	n: tautology	1
+2404	T	n: care	1
+2405	T	r: procedurally	1
+2406	T	n: duty	1
+2407	T	a: infeasible	1
+2408	T	a: round,elongated	1
+2409	T	n: simulator	1
+2410	T	n: assistance	1
+2411	T	n: nand	1
+2412	T	a: controversial	1
+2413	T	n: feedback	1
+2414	T	n: medication	1
+2415	T	a: unproven	1
+2416	T	a: lshakeystart	1
+2417	T	n: sentiment	1
+2418	T	n: remark	1
+2419	T	n: catch	1
+2420	T	a: bi-directional	1
+2421	T	n: bock	1
+2422	T	r: continually	1
+2423	T	n: mccarthy	1
+2424	T	n: spot	1
+2425	T	n: instruction	1
+2426	T	a: indifferent	1
+2427	T	n: guest	1
+2428	T	nn: telephone directory	1
+2429	T	an: public highway	1
+2430	T	n: generating	1
+2431	T	n: reference	1
+2432	T	r: numerically	1
+2433	T	a: red,small,?,humid,low,smooth	1
+2434	T	n: cousin	1
+2435	T	n: charge	1
+2436	T	ncnn: babbage and ada byron	1
+2437	T	n: f-cost	1
+2438	T	n: containment	1
+2439	T	a: everyday	1
+2440	T	r: incrementally	1
+2441	T	a: modifiable	1
+2442	T	nn: punctuation mark	1
+2443	T	n: spam	1
+2444	T	n: forest	1
+2445	T	ncan: 1-consistency and arc -	1
+2446	T	n: x,y∈y	1
+2447	T	nn: gottlob frege	1
+2448	T	n: liver	1
+2449	T	n: expertise	1
+2450	T	n: softbot	1
+2451	T	an: excessive optimism	1
+2452	T	n: subgroup	1
+2453	T	a: observed	1
+2454	T	r: surprisingly	1
+2455	T	a: ai-1	1
+2456	T	n: x-positions	1
+2457	T	a: aware	1
+2458	T	r: true	1
+2459	T	nn: soybean pathology	1
+2460	T	a: context-free	1
+2461	T	n: viceversa	1
+2462	T	n: underscore	1
+2463	T	n: run-away	1
+2464	T	n: associate	1
+2465	T	n: y-positions	1
+2466	T	n: true	1
+2467	T	n: nondescendants	1
+2468	T	n: cutsets	1
+2469	T	nnn: enemy anti-aircraft gun	1
+2470	T	r: noticeably	1
+2471	T	n: softbots	1
+2472	T	r: apparently	1
+2473	T	n: jump	1
+2474	T	r: ideally	1
+2475	T	n: cola-wars	1
+2476	T	an: dotted box	1
+2477	T	n: f,f,t	1
+2478	T	a: general-specific	1
+2479	T	a: gray	1
+2480	T	an: organizational behavior	1
+2481	T	n: subquery	1
+2482	T	n: fortran	1
+2483	T	r: absolutely	1
+2484	T	n: machinery	1
+2485	T	r: symbolically	1
+2486	T	r: anytime	1
+2487	T	n: adverb	1
+2488	T	a: representable	1
+2489	T	n: evolution	1
+2490	T	n: consdier	1
+2491	T	r: t3-to	1
+2492	T	n: a,t,e	1
+2493	T	a: die2	1
+2494	T	r: successively	1
+2495	T	a: adeguate	1
+2496	T	a: recent	1
+2497	T	n: replacement	1
+2498	T	a: numerical	1
+2499	T	a: unchanged	1
+2500	T	n: europa	1
+2501	T	r: significantly	1
+2502	T	r: regularly	1
+2503	T	a: elegant	1
+2504	T	npncn: sld-resolvent of gi and ci	1
+2505	T	n: peak	1
+2506	T	r: arbitrarily	1
+2507	T	an: in1965 lotfi	1
+2508	T	n: nova	1
+2509	T	n: transmission	1
+2510	T	n: gripper	1
+2511	T	n: angola	1
+2512	T	n: wing	1
+2513	T	n: sub-sub-goals	1
+2514	T	n: theorem-prover	1
+2514	V[mg]	nn: theorem prover	5
+2515	T	nn: metropolis -	1
+2516	T	r: approximately	1
+2517	T	a: 4-tuple	1
+2518	T	ann: variable v containts	1
+2519	T	n: wife	1
+2520	T	n: coin	1
+2521	T	n: teletype	1
+2522	T	r: rapidly	1
+2523	T	n: complement	1
+2524	T	a: unbounded	1
+2525	T	a: dative	1
+2526	T	n: undoing	1
+2527	T	n: galaxy	1
+2528	T	n: plato	1
+2529	T	n: hmms	1
+2530	T	an: tight lower	1
+2531	T	n: kharagpur	1
+2532	T	nn: age forty	1
+2533	T	n: frequency	1
+2534	T	a: ac-3	1
+2535	T	n: plane	1
+2536	T	a: ac-6	1
+2537	T	a: ac-7	1
+2538	T	a: ac-5	1
+2539	T	a: switch1	1
+2540	T	r: lastly	1
+2541	T	r: closer	1
+2542	T	a: 3cnfsat	1
+2543	T	n: continuity	1
+2544	T	n: knuth	1
+2545	T	nn: po tag	1
+2546	T	n: dinner	1
+2547	T	r: jointly	1
+2548	T	a: warm	1
+2549	T	a: dependent	1
+2550	T	a: dependency-directed	1
+2551	T	nn: jazz musician	1
+2552	T	n: plateau	1
+2553	T	n: np-c	1
+2554	T	n: rise	1
+2555	T	a: floor,shakey	1
+2556	T	n: climbing	1
+2557	T	a: preferred	1
+2558	T	n: dead-ends	1
+2559	T	n: robustness	1
+2560	T	a: applied	1
+2561	T	nn: bowel trouble	1
+2562	T	n: girl	1
+2563	T	n: orderings	1
+2564	T	a: absent	1
+2565	T	a: counterintuitive	1
+2566	T	a: unreasonable	1
+2567	T	r: graphically	1
+2568	T	a: uni-lingual	1
+2569	T	n: verification	1
+2570	T	n: a-b-e-g-h	1
+2571	T	n: mixture	1
+2572	T	n: sucessor	1
+2573	T	r: exhaustively	1
+2574	T	an: alternative instantiations	1
+2575	T	an: founding father	1
+2576	T	an: north whitehead	1
+2577	T	n: e-expressions	1
+2578	T	a: fitting	1
+2579	T	n: kolkata	1
+2580	T	n: engels	1
+2581	T	n: vertebrate	1
+2582	T	nn: semantics semantics	1
+2583	T	n: red,small,round,humid,low,smooth	1
+2584	T	an: subgoal ai	1
+2585	T	n: common-place	1
+2586	T	n: axis	1
+2587	T	n: interlingua	1
+2588	T	n: unison	1
+2589	T	n: prompt	1
+2590	T	nnn: particples po taggers	1
+2591	T	n: hyperpath	1
+2592	T	npn: quart of milk	1
+2593	T	n: denominator	1
+2594	T	a: inside	1
+2595	T	n: resurgence	1
+2596	T	n: convergence	1
+2597	T	n: payoff	1
+2598	T	a: external	1
+2599	T	an: s4 follow	1
